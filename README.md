@@ -8,5 +8,6 @@
 - 🌱 I’m currently learning **Python to model and design next-generation neural interfaces for the control state-of-the-art prosthetic**
 
 - 📫 How to reach me **nhanhoang0815@gmail.com**
+  
 ![Python](https://img.shields.io/badge/Python-navy)
 
