@@ -10,6 +10,6 @@
 - 📫 How to reach me **nhanhoang0815@gmail.com**
   
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.cleanpng.com/png-computer-icons-solidworks-e-1541448/" alt="Solidworks" width="40" height="40"/> </a> </p>
 
 
