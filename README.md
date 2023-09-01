@@ -14,7 +14,7 @@
 ## Skills
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-4EAA25?logo=SolidWorks&logoColor=white&style=for-the-badge)
-![Rhinoceros 3D](https://img.shields.io/badge/rhinoceros-3DDC84?logo=rhinoceros&logoColor=white&style=for-the-badge)
+![Rhinoceros 3D](https://img.shields.io/badge/rhinoceros-801010?logo=rhinoceros&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
