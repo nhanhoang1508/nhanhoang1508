@@ -21,7 +21,7 @@
 ![LabVIEW](https://img.shields.io/badge/labview-FFDB00?logo=labview&logoColor=black&style=for-the-badge)
 ![MicrosoftExcel](https://img.shields.io/badge/microsoftexcel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![MatLab](https://img.shields.io/badge/MatLab-61DAFB?logo=MatLab&logoColor=black&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
