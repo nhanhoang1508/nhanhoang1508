@@ -10,6 +10,7 @@
 - 📫 How to reach me **nhanhoang0815@gmail.com**
   
 <img align="right" alt="Mechanical Engineering' by the fire." width="350" src="img/tenor.gif" />
+
 :shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
 :shipit: Android @ [**Taperk**][taperk]  
@@ -17,6 +18,7 @@
 :shipit: Founder @ [**Abyss Inc.**][abyss]  
 :shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
 :shipit: Open-source enthusiast year-round (3400+ contributions)
+
 
 ## Skills
 
