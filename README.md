@@ -13,7 +13,9 @@
 
 
 :shipit: Undergraduate Researcher @ [**ASM GatorSense**] [https://faculty.eng.ufl.edu/machine-learning/]
+
 :shipit: R&D Mechanical Engineering Intern @ [**THACO GROUP**][https://thacogroup.vn/en]  
+
 :shipit: Android @ [**Taperk**][taperk]  
 :shipit: Full-stack @ [**RocLab**][roclab]  
 :shipit: Founder @ [**Abyss Inc.**][abyss]  
