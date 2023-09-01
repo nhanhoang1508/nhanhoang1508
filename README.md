@@ -11,7 +11,7 @@
   
 <img align="right" alt="Mechanical Engineering' by the fire." width="350" src="img/tenor.gif" />
 
-:shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
+:shipit: Undergraduate Researcher @[**ASM GatorSense**]
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
 :shipit: Android @ [**Taperk**][taperk]  
 :shipit: Full-stack @ [**RocLab**][roclab]  
