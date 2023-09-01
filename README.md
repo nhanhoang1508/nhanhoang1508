@@ -11,18 +11,6 @@
   
 <img align="right" alt="Mechanical Engineering' by the fire." width="350" src="img/tenor.gif" />
 
-
-:shipit: Undergraduate Researcher @ [**ASM GatorSense**] [https://faculty.eng.ufl.edu/machine-learning/]
-
-:shipit: R&D Mechanical Engineering Intern @ [**THACO GROUP**][https://thacogroup.vn/en]  
-
-:shipit: Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
-
-
 ## Skills
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-4EAA25?logo=SolidWorks&logoColor=white&style=for-the-badge)
