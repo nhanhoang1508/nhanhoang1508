@@ -17,7 +17,7 @@
 ![Rhinoceros 3D](https://img.shields.io/badge/rhinoceros-801010?logo=rhinoceros&logoColor=white&style=for-the-badge)
 ![Siemens NX](https://img.shields.io/badge/siemens-009999?logo=siemens&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/arduino-00878F?logo=arduino&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-F8981D?logo=AutoCAD&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
