@@ -19,7 +19,7 @@
 ![Arduino](https://img.shields.io/badge/arduino-00878F?logo=arduino&logoColor=white&style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-F8981D?logo=AutoCAD&logoColor=white&style=for-the-badge)
 ![LabVIEW](https://img.shields.io/badge/labview-FFDB00?logo=labview&logoColor=black&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![MicrosoftExcel](https://img.shields.io/badge/microsoftexcel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
