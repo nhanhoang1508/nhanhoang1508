@@ -22,7 +22,7 @@
 ![MicrosoftExcel](https://img.shields.io/badge/microsoftexcel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![MatLab](https://img.shields.io/badge/MatLab-61DAFB?logo=MatLab&logoColor=black&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![html5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 
