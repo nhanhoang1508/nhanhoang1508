@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nhanhoang0815@gmail.com**
   
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/tenor.gif" />
+<img align="right" alt="Mechanical Engineering' by the fire." width="350" src="img/tenor.gif" />
 
 ## Skills
 
