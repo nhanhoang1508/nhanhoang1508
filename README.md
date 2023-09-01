@@ -11,6 +11,7 @@
   
 <img align="right" alt="Mechanical Engineering' by the fire." width="350" src="img/tenor.gif" />
 
+
 :shipit: Undergraduate Researcher @ [**ASM GatorSense**]
 :shipit: R&D Mechanical Engineering Intern @ [**THACO GROUP**][https://thacogroup.vn/en]  
 :shipit: Android @ [**Taperk**][taperk]  
